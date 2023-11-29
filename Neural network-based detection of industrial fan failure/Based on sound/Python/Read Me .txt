@@ -1,0 +1,32 @@
+cnn.py :
+contains the structure of the deep learning model ( CNN ) 
+necessary libraries : torch , torchsummary .
+
+Fan.py :
+contains the class Fan (Dataset) allowing to load the dataset files from a CSV file .
+required libraries : torch, torchaudio, matplotlib, librosa, pandas, torch.utils.data
+
+DBtoCSV.py :
+allows to separate the dataset in two csv files, the first one contains the training dataset and the second one contains the test dataset.
+necessary libraries : glob, pandas
+
+Visualization.py :
+allows to visualize the curves and display the log-mel spectrogram with two different libraries 
+needed libraries : torch, torchaudio,matplotlib,librosa
+
+CSV to WAV.py : 
+allows to convert a csv file into a usable wav file. We need it to be able to listen to the content recorded by the microphone present in the card. 
+Remark : the CSV file must be created by "Semi-Hosting" of the microcontroller to contain at least one second of recording (in our case 16000 values)
+necessary libraries : csv, scipy.io.wavfile, numpy, matplotlib.pyplot  
+
+train2.py :
+contains the necessary functions to train a single "epoch" and a predefined number of epochs 
+necessary libraries : torch, torchaudio, time
+
+Convert_Pytorch_To_ONNX.py : 
+As the .pth file is not directly compatible with the STM Cube AI extension, it is necessary to convert the pytorch model into an ONNX model.
+required libraries : torch, torchaudi
+
+Fan_Predict.py :
+allows prediction using the test DataSet.
+required libraries: torch,torchaudio

@@ -1,0 +1,2 @@
+../Core/Src/window.c:73:6:cosine_sum_window_create	64	static
+../Core/Src/window.c:46:9:Window_Init	8	static

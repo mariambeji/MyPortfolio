@@ -1,0 +1,2 @@
+../Core/Src/dct.c:113:9:DCT_Init	64	static
+../Core/Src/dct.c:233:6:DCT	20	static

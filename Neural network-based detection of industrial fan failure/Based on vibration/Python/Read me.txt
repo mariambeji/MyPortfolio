@@ -1,0 +1,11 @@
+Visualization.py: 
+Exploring data sequences
+
+Merge CSV files into One.py:
+Merging different csv files contents into one for easy processing
+
+Combine files.py:
+Combining the raw data into one csv file for each label
+
+Main file.py:
+Preprocessing data and training the model 
