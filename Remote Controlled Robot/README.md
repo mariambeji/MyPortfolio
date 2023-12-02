@@ -1,8 +1,11 @@
 # Apollo Rover
 
 ## Summary 
-The main focus of this project was to design and develop the mechanism for remote-controlled robot with a robotic arm for lifting samples from the surface of the moon. 
- 
+The main focus of this project was to design and develop the mechanism for remote-controlled robot with a robotic arm for lifting samples from the surface of the moon.   
+  
+ ## Keywords: 
+Robotic Arm, Arduino, Lifting Mechanismes, Design, Validation, Four Degree of Freedom, Servo Motors, Bluetooth module.
+
 ## General Description 
 ⦁	Remote-controlled robot was  designed with with four wheels and a floor in the center where the collected samples will be put  and  programmed to provide a working facility for off-line programming of actual working robot in a remote environment and also it can be used in dangerous areas.  
 ⦁	The robotic arm was designed with three degrees of freedom and programmed to accomplish accurately simple heavy material lifting task to assist astronauts.  
@@ -31,9 +34,6 @@ The main focus of this project was to design and develop the mechanism for remot
 
 ### Hardware used
 ⦁	Arduino, an open-source computer hardware and software is applied to control the robotic arm by driving servo motors to be capable to modify the position.   
-
-## Keywords: 
-Robotic Arm, Arduino, Lifting Mechanismes, Design, Validation, Four Degree of Freedom, Servo Motors, Bluetooth module.
 
 
 
