@@ -9,12 +9,12 @@ The main focus of this project was to design and develop the mechanism for remot
 ⦁	Wireless control was done by using a smart phone with android operating system through a Bluetooth module.  
 ⦁	The robot was under testing and validating its performance and the results indicates that it can perform the lifting task properly.  
 
-![Picture of the robot](Apollorover.jpg)
+![Picture of the robot](Apollorover1.jpg)
 
 ## Technical details and Novelty analysis 
 ⦁	The mechanical conception of the robot was designed using SOLIDWORKS a solid modeling computer-aided design. All the parts ( the robot’s base and the robotic arm) were designed with precise dimensions to create an adequate model.  
 ⦁	3D printing method is used in this project to fabricate the components of the robotic arm. Therefore, it provided more precise dimensions and huge time and cost-saving in fabrication.  
-⦁	The navigation of the robot is controlled through a bleutooth module connected to an Arduino board, this microcontroller (main) is linked to another Arduino board (secondary) which controls the movement of the robotic arm which is connected to the same bleutooth module HC-05.  
+⦁	The navigation of the robot is controlled through a bluetooth module connected to an Arduino board, this microcontroller (main) is linked to another Arduino board (secondary) which controls the movement of the robotic arm which is connected to the same bluetooth module HC-05.  
 ⦁	The motors are linked to a 4-channel relay control board with optocoupler which represents a voltage divisor.    
 ⦁	The robotic arm is equipped with 3 servo motors (Zbotic TowerPro 180 Degree Rotation Servo Motor) to link the parts and bring arm movement.  
 ### Solidworks model
