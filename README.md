@@ -21,3 +21,11 @@ UART/USART, CANopen, CoE, EtherCAT, LabVIEW, PLC, VHDL, FPGA, Git, Jira, Agile
 To know more about my career path please visit my [LinkedIn profile](https://www.linkedin.com/in/mariam-beji-90ab28178/)
 
 While going through my project folders you can notice that I have a passion for Computer Vision and Imagery. That comes from my interest in Photography and Visual Arts in general. So I invite you to also visit my Personal Gallery: [SourdiMan9oub](https://www.instagram.com/sourdiman9oub/)  
+
+Mariam Beji  
+Graduate in Industrial Computing and Automation at The National Institute of Applied Sciences and Technology  
+Research Master Student in Complex and Intelligent Systems at The Polytechnic School Of Tunisia  
+Former Chairwoman of Industry Applications Society of the IEEE INSAT Student Branch  
+Phone number: +33 748517276 / +49 15510149367  
+LinkedIn: [Mariam Beji](https://www.linkedin.com/in/mariam-beji-90ab28178/)  
+Email: Mariambeji@ieee.org   
