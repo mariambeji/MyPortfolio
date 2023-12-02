@@ -16,4 +16,7 @@ drive communication.
 ## Technical environment
 microPython, C, xC, XMOS xCORE, Git, GitHub, Linux, CiA 402, CANopen over EtherCAT  
 
+## Website of the company
+https://www.synapticon.com
+
 Please reach out to me if you are interested to see the full report.
