@@ -4,7 +4,7 @@
 This portfolio repository contains examples of my work in the field of embedded systems development.
 
 ## About me :
-Hi, My name is Mariam Beji and I am a recently graduated Embedded Systems Engineer. My enthusiasm for this field is shown here through the projects I built for academic and personal projects.  
+Hi, My name is Mariam Beji and I am a junior Embedded Systems Engineer, graduated recently with an engineering dipoloma in Industrial Computing and Automation, and currently finishing a Master in Complex and Intelligent Systems. My enthusiasm for the field of embedded systems is shown here through the projects I built for academic and personal purposes.  
   
 During my journey, I learned and practiced the programming languages **C/C++ , Python and Matlab**. I have a solid understanding of ARM architecture and experience with several microcontrollers: _Arduino,  STM32, XMOS xCORE, Pi Pico_.  
 Other than the project described in this portfolio I have acquired more experience in programming on STM32 during the practical classes we had in school and during the trainings I did with my club: IEEE INSAT student branch and specifically the Robotics and Automation Society (RAS) student branch chapter. 
