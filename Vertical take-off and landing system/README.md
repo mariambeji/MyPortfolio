@@ -2,7 +2,10 @@
 
 ## Summary 
 This project was conducted in a group of four people where each one took care of a specific part. 
-We conducted a theoretical research which then converged towards an increasingly practical approach by testing the system on a real prototype. To create and control a VTOL system, the first task was to keep our aircraft prototype stable and in balance (0 degrees relative to the roll axis). Our system regains its horizontal position after any disturbance applied to it in order to guarantee the verticality of take-off and landing. The feedback of our system was calculated from the data collected by the sensors : 3D accelerometer and 3D gyroscope (LSM6DSL), then fused by the Kalman filter.
+We conducted a theoretical research which then converged towards an increasingly practical approach by testing the system on a real prototype. To create and control a VTOL system, the first task was to keep our aircraft prototype stable and in balance (0 degrees relative to the roll axis). Our system regains its horizontal position after any disturbance applied to it in order to guarantee the verticality of take-off and landing. The feedback of our system was calculated from the data collected by the sensors : 3D accelerometer and 3D gyroscope (LSM6DSL), then fused by the Kalman filter.  
+  
+## Keywords:   
+STM32 IOT node, Timers, IMU, Mems sensors, Kalman Filter, PID controller, LabVIEW  
   
 ## Theoritical Study
 The aircraft systems were studied to understand flight control and the physics behind it. We analysed the stability of these complex systems. Then a comparative study between conventional aircrafts and Vertical Take-Off and Landing Systems.
