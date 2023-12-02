@@ -1,4 +1,4 @@
-I worked MECHATRONICS INTERN
+I worked as a MECHATRONICS INTERN
 for neurotrim Systems, for 2 months (July 2022 to August 2022), internship in Munich
 in Germany.  
 
