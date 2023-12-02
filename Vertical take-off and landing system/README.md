@@ -18,11 +18,11 @@ Two MEMs sensors were used: Accelerometer and Gyroscope.
 Calibration was needed and filters were added, specifically the Kalman filter to insure data fusion.
   
 #### STM32 Board used:
-The sensors data processing was done on the IOT-node: STM32L4 Discovery Kit.
-The choice of board is made for several reasons:
-1- The presence of sensors embedded on the board (Accelerometer, Gyroscope and Magnetometer)
-2- The presence of an STM32L475 microcontroller known for its low consumption therefore suitable for autonomous drones.
-3- The presence of wireless communication modules for future improvements. (WIFI or Bluetooth)
+The sensors data acquisition and processing were done on the IOT-node: STM32L4 Discovery Kit.  
+The choice of board is made for several reasons:  
+  1- The presence of sensors embedded on the board (Accelerometer, Gyroscope and Magnetometer)
+  2- The presence of an STM32L475 microcontroller known for its low consumption therefore suitable for autonomous drones.
+  3- The presence of wireless communication modules for future improvements. (WIFI or Bluetooth)
 
 
 
