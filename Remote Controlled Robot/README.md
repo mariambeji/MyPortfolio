@@ -23,7 +23,7 @@ The main focus of this project was to design and develop the mechanism for remot
 ### Solidworks model
 
 <div style="text-align:center;">
-<img src="./MechanicalDesignApolloRover.png" width="400" height="600">  
+<img src="./MechanicalDesignApolloRover.png" >  
 </div>
 
 ### Mechanical design  
