@@ -18,6 +18,10 @@ We will address two major areas of importance:
 ## Hardware Used
 - *Microcontroller*: Arduino Uno [link](https://store.arduino.cc/products/arduino-uno-rev3)
 
+## Full report:
+The report was written in French and it includes all the parts of the project conducted in a group of four people.
+[link](https://github.com/mariambeji/MyPortfolio/blob/0ce4efa0b0e269130cbd0840b12688fe648e6dd0/Robotic%20Arm%20Control%20by%20Motion%20Capture/Rapport%20PPP%20Contr%C3%B4le%20de%20Bras%20Robotique%20%C3%A0%20base%20de%20Mocap.pdf)   
+
 ## Contact Information
 If you would like to learn more about this project or get in touch with me, please feel free to do so through the following channels:
 - [LinkedIn](https://www.linkedin.com/in/mariam-beji-90ab28178/)
