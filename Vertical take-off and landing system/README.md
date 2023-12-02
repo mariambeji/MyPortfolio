@@ -12,7 +12,7 @@ We studied the linearity of DC motors and most importantly the sensors needed, h
   
 #### Position Calculations:  
 <div style="text-align:center;">
-<img src="./PositionCalculation.jpg" width="800" height="400">  
+<img src="./PositionCalculation.JPG" width="800" height="400">  
 </div>
 Two MEMs sensors were used: Accelerometer and Gyroscope. 
 Calibration was needed and filters were added, specifically the Kalman filter to insure data fusion.
