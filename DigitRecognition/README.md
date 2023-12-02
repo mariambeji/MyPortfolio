@@ -10,6 +10,10 @@ For each input vector (a row of the matrix samples), the method finds the k near
 2- DigitRecognizerTraining: for training the model manually  
 3- DigitRecognizerTesting: To give the model an image and test if the result is correct  
 
+## Keywords:
+Python, NumPy, cv2
+
+
 ## Contact Information
 If you would like to learn more about this project or get in touch with me, please feel free to do so through the following channels:
 - [LinkedIn](https://www.linkedin.com/in/mariam-beji-90ab28178/)
