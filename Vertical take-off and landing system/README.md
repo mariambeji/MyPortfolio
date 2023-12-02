@@ -1,49 +1,28 @@
-## Configuration
+# VTOL control system
 
-![image](https://user-images.githubusercontent.com/108965218/234114124-fccff55d-0676-4206-b11d-78cddeb204d6.png)
-
-For the configuration part, we use the VISA configure Serial Port block, having downloaded the necessary drivers beforehand.
-Then we create the control blocks and/or constants necessary for its proper functioning: in our case we will specify 
-- The Visa Resource Name (to choose the appropriate COM port) 
-- The activation of a termination character to separate the different messages during reception
-- The baud rate which will be identical to the one used by the microcontroller.
-- The existence or not of a parity bit 
-- As well as the size of the UART payload
-
-
-## Writing from LabVIEW
-
-![image](https://user-images.githubusercontent.com/108965218/234114163-1942399b-5455-4eb3-b8ea-0cb031398cd1.png)
-
-In our case, we have several variables to transmit from LabVIEW to the microcontroller used: 
-- A boolean variable indicating the start or stop of the system
-- Real numbers containing the constants Kp, Ki and Kd of our implemented PID.
-- A float containing the instruction for tests.
-Therefore, it is necessary to separate the variables with " \n " to break up the message when receiving. 
-So our frame of data to be sent is a character string containing the variables to be sent separated by a predefined character " \n " where from the necessity to convert the variables into character strings and to carry out a concatenation before sending it.
-It is necessary to implement on microcontroller an algorithm of decomposition of the sent frame to be able to extract the data.
-
-
-## Reading from LabVIEW
-
-![image](https://user-images.githubusercontent.com/108965218/234114256-a3cf5463-6ac9-472e-8869-f538b166fff6.png)
-
-LabVIEW is used in our case to receive the measured angular position on microcontroller.
-To solve communication problems, we have deliberately sent the measured angle with an offset of + 90 degrees to ensure that the number is always positive. 
-This angle is processed in LabVIEW to be corrected and displayed on a graph.
-From the received angles we drift twice to obtain respectively a speed and an angular acceleration.
-We also perform a filtering on the calculated velocity to smooth the obtained curve.
-Moreover, we use the angular position and the angular velocity to plot the phase plane in real time by designating them respectively as X and Y.
+## Summary 
+This project was conducted in a group of four people where each one took care of a specific part. 
+We conducted a theoretical research which then converged towards an increasingly practical approach by testing the system on a real prototype. To create and control a VTOL system, the first task was to keep our aircraft prototype stable and in balance (0 degrees relative to the roll axis). Our system regains its horizontal position after any disturbance applied to it in order to guarantee the verticality of take-off and landing. The feedback of our system was calculated from the data collected by the sensors : 3D accelerometer and 3D gyroscope (LSM6DSL), then fused by the Kalman filter.
+  
+## Theoritical Study
+The aircraft systems were studied to understand flight control and the physics behind it. We analysed the stability of these complex systems. Then a comparative study between conventional aircrafts and Vertical Take-Off and Landing Systems.
+  
+## Actuators and Sensors
+We studied the linearity of DC motors and most importantly the sensors needed, how they work and how to calculate the correct position. 
+  
+#### Position Calculations:  
+<div style="text-align:center;">
+<img src="./PositionCalculation.jpg" width="800" height="400">  
+</div>
+Two MEMs sensors were used: Accelerometer and Gyroscope. 
+Calibration was needed and filters were added, specifically the Kalman filter to insure data fusion.
+  
+#### STM32 Board used:
+The sensors data processing was done on the IOT-node: STM32L4 Discovery Kit.
+The choice of board is made for several reasons:
+1- The presence of sensors embedded on the board (Accelerometer, Gyroscope and Magnetometer)
+2- The presence of an STM32L475 microcontroller known for its low consumption therefore suitable for autonomous drones.
+3- The presence of wireless communication modules for future improvements. (WIFI or Bluetooth)
 
 
-## Final result
 
-![image](https://user-images.githubusercontent.com/108965218/234114318-0fba38cf-1e1e-42cb-a391-ef5e3237cb90.png)
-
-![image](https://user-images.githubusercontent.com/108965218/234114350-7ed35a45-60a3-4fe6-991a-769443fc2d48.png)
-
-![image](https://user-images.githubusercontent.com/108965218/234114382-11c57881-a03b-4018-a8ca-536aba07d94a.png)
-
-![image](https://user-images.githubusercontent.com/108965218/234114415-4a87dae7-625f-4f6a-b8e8-59ff995dff2f.png)
-
-![image](https://user-images.githubusercontent.com/108965218/234114442-8c04389a-e7e1-43d4-b80a-155b023d43b5.png)
