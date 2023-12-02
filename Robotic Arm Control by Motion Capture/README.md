@@ -9,6 +9,11 @@ In this project, we have developed an innovative control system for a robotic ar
 This project is part of a professional and personal initiative aimed at exploring the potential applications of a robotic arm controlled by motion capture. 
 This approach is of interest not only in the leisure sector, providing an interactive experience, but also in more sensitive areas such as industrial chemistry, where it can minimize operators exposure to hazardous materials.
 
+
+## Keywords: 
+Solidworks, OpenCV, Python, 3D printing, Servo Motors, Arduino  
+
+  
 ## Work Areas
 We will address two major areas of importance:
 1. *Robotic Arm:* A thorough literature review will be conducted, covering a general presentation of robotic arms, their application domains, and different types of manipulator arms.
