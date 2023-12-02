@@ -12,6 +12,11 @@ In addition to these technical tools, I have also acquired knowledge in control 
   
 Moreover, my ability to adapt easily to change allowed me to work on a new SoC for the first time during my internship with **Synapticon**, and I could contribute efficiently to their project.  
 Now, I am currently finishing my internship with **Airbus** focusing on developing SDK tool and methodology for easy integration of Simulink models on critical ECUs on board civil aircraft.  
+
+### Skills (Keywords): 
+C/C++, Java, OOP, UML, Assembly language, Python, Perl, Shell scripting, Linux/
+Unix, ROS, STM32, XMOS, Matlab, Simulink, DO 178, AFDX, ARINC 429, SPI, I2C,
+UART/USART, CANopen, CoE, EtherCAT, LabVIEW, PLC, VHDL, FPGA, Git, Jira, Agile
 To know more about my career path please visit my [LinkedIn profile](https://www.linkedin.com/in/mariam-beji-90ab28178/)
 
 While going through my project folders you can notice that I have a passion for Computer Vision and Imagery. That comes from my interest in Photography and Visual Arts in general. So I invite you to also visit my Personal Gallery: [SourdiMan9oub](https://www.instagram.com/sourdiman9oub/)  
