@@ -1,4 +1,5 @@
-I worked as a FIRMWARE ENGINEERING INTERN For Synapticon GmbH, for 6 months (February 2023 to July 2023), internship in Stuttgart in Germany.  
+## Professional Experience
+I worked as a FIRMWARE ENGINEERING INTERN for Synapticon GmbH, for 6 months (February 2023 to July 2023), internship in Stuttgart in Germany.  
 
   
 ## Context
