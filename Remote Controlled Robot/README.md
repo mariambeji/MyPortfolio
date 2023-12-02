@@ -9,7 +9,7 @@ The main focus of this project was to design and develop the mechanism for remot
 ⦁	Wireless control was done by using a smart phone with android operating system through a Bluetooth module.  
 ⦁	The robot was under testing and validating its performance and the results indicates that it can perform the lifting task properly.  
 
-![Picture of the robot](Apollorover2.jpg)
+![Picture of the robot](ApolloRover2.jpg)
 
 ## Technical details and Novelty analysis 
 ⦁	The mechanical conception of the robot was designed using SOLIDWORKS a solid modeling computer-aided design. All the parts ( the robot’s base and the robotic arm) were designed with precise dimensions to create an adequate model.  
