@@ -26,14 +26,15 @@ The kalman filter numerical implementation was thouroughly studied, but to decre
 </div>
 
 #### STM32 Board used: 
-The sensors data acquisition and processing were done on the *IOT-node*: STM32L4 Discovery Kit. [link]([https://www.st.com/en/evaluation-tools/b-l475e-iot01a.html])  
+The sensors data acquisition and processing were done on the *IOT-node*: STM32L4 Discovery Kit. [link](https://www.st.com/en/evaluation-tools/b-l475e-iot01a.html)  
 The choice of board is made for several reasons:  
   1- The presence of sensors embedded on the board (Accelerometer, Gyroscope and Magnetometer)  
   2- The presence of an STM32L475 microcontroller known for its low consumption therefore suitable for autonomous drones.  
   3- The presence of wireless communication modules for future improvements. (WIFI or Bluetooth)  
 
 ## Full report:
-[link]([https://github.com/mariambeji/MyPortfolio/blob/23ef879339783d285c5ebb871ff4409a22ba0739/Vertical%20take-off%20and%20landing%20system/VTOL-report.pdf])  
+The report was written in French and it includes all the parts of the project conducted in a group of four people: Khalil Kaanich, Taher Bazzazi, Imed Ben Slimene and myself.
+[link](https://github.com/mariambeji/MyPortfolio/blob/23ef879339783d285c5ebb871ff4409a22ba0739/Vertical%20take-off%20and%20landing%20system/VTOL-report.pdf)  
 
 ## Contact Information
 If you would like to learn more about this project or get in touch with me, please feel free to do so through the following channels:
