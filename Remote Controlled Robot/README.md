@@ -9,8 +9,9 @@ The main focus of this project was to design and develop the mechanism for remot
 ⦁	Wireless control was done by using a smart phone with android operating system through a Bluetooth module.  
 ⦁	The robot was under testing and validating its performance and the results indicates that it can perform the lifting task properly.  
 ### Picture of the robot
+
 <div style="text-align:center;">
-<img src="./Apollorover.JPG" width="400" height="600">  
+<img src="./Apollorover.jpg" width="400" height="600">  
 </div>
 
 ## Technical details and Novelty analysis 
@@ -20,8 +21,9 @@ The main focus of this project was to design and develop the mechanism for remot
 ⦁	The motors are linked to a 4-channel relay control board with optocoupler which represents a voltage divisor.    
 ⦁	The robotic arm is equipped with 3 servo motors (Zbotic TowerPro 180 Degree Rotation Servo Motor) to link the parts and bring arm movement.  
 ### Solidworks model
+
 <div style="text-align:center;">
-<img src="./MechanicalDesignApolloRover.PNG" width="400" height="600">  
+<img src="./MechanicalDesignApolloRover.png" width="400" height="600">  
 </div>
 
 ### Mechanical design  
