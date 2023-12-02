@@ -33,6 +33,7 @@ The choice of board is made for several reasons:
   3- The presence of wireless communication modules for future improvements. (WIFI or Bluetooth)  
 
 ## Full report:
+The report was written in French and it includes all the parts of the project conducted in a group of four people: Khalil Kaanich, Taher Bazzazi, Imed Ben Slimene and myself.
 [link](https://github.com/mariambeji/MyPortfolio/blob/23ef879339783d285c5ebb871ff4409a22ba0739/Vertical%20take-off%20and%20landing%20system/VTOL-report.pdf)  
 
 ## Contact Information
