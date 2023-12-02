@@ -8,11 +8,8 @@ The main focus of this project was to design and develop the mechanism for remot
 ⦁	The robotic arm was designed with three degrees of freedom and programmed to accomplish accurately simple heavy material lifting task to assist astronauts.  
 ⦁	Wireless control was done by using a smart phone with android operating system through a Bluetooth module.  
 ⦁	The robot was under testing and validating its performance and the results indicates that it can perform the lifting task properly.  
-### Picture of the robot
 
-<div style="text-align:center;">
-<img src="Remote Controlled Robot/Apollorover.jpg">  
-</div>
+![Picture of the robot](Apollorover.jpg)
 
 ## Technical details and Novelty analysis 
 ⦁	The mechanical conception of the robot was designed using SOLIDWORKS a solid modeling computer-aided design. All the parts ( the robot’s base and the robotic arm) were designed with precise dimensions to create an adequate model.  
