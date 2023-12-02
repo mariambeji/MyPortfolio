@@ -10,7 +10,7 @@ The main focus of this project was to design and develop the mechanism for remot
 ⦁	The robot was under testing and validating its performance and the results indicates that it can perform the lifting task properly.  
 ### Picture of the robot
 <div style="text-align:center;">
-<img src="./Apollo rover.JPG" width="400" height="600">  
+<img src="./Apollorover.JPG" width="400" height="600">  
 </div>
 
 ## Technical details and Novelty analysis 
@@ -21,7 +21,7 @@ The main focus of this project was to design and develop the mechanism for remot
 ⦁	The robotic arm is equipped with 3 servo motors (Zbotic TowerPro 180 Degree Rotation Servo Motor) to link the parts and bring arm movement.  
 ### Solidworks model
 <div style="text-align:center;">
-<img src="./MechanicalDesignApolloRover.JPG" width="400" height="600">  
+<img src="./MechanicalDesignApolloRover.PNG" width="400" height="600">  
 </div>
 
 ### Mechanical design  
