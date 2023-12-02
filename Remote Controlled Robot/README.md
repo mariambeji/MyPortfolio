@@ -11,7 +11,7 @@ The main focus of this project was to design and develop the mechanism for remot
 ### Picture of the robot
 
 <div style="text-align:center;">
-<img src="./Apollorover.jpg">  
+<img src="Remote Controlled Robot/Apollorover.jpg">  
 </div>
 
 ## Technical details and Novelty analysis 
